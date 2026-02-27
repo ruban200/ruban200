@@ -7,7 +7,9 @@
 
 
 ### 🚀 About Me
-I am a passionate Full Stack Developer focused on building scalable web applications and integrating AI into real-world workflows.
+currently pursuing MCA at Madurai Kamaraj University with a strong interest in full-stack web development. I enjoy building responsive and scalable web applications and solving real-world problems through code.
+
+Skilled in HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, and MySQL. I am actively seeking internship or entry-level opportunities to enhance my skills and contribute to a growing tech team
 
 - 🌱 Currently mastering Data Structures & Algorithms
 - 🤖 Exploring AI-powered development
