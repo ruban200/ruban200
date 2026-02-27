@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ruban Raj
 
-🎓 Full Stack Developer | 🤖 AI Integration Enthusiast | 💡 Problem Solver  
-📍 India  
+🎓 Full Stack Developer
+
 <img align="right" width="370" height="250" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 🔗 **Portfolio:** https://RubanRaj.web.app/  
 
@@ -85,3 +85,4 @@ Skilled in HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, and MySQL. I
 
 ### Social Presence
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/@ruban5398) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/ruban-raj-s-62880836a/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/ruban_offical/)
+     
